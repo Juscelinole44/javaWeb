@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+header{
+	background-image:url("http://www.pxcreate.com/template/simplepxcreate/layerslider/gallery/bg3.jpg");
+	clear: both;
+	opacity: 0.8;
+	padding: 20px 0;
+	margin-bottom: 10px;
+}
+.container{
+	position: relative;
+	margin: 0 auto;
+	width: 1200px;
+}
